@@ -1,0 +1,972 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/all.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2021-07-19T11:54:23-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/6916721508518</id>
+    <published>2021-07-19T11:54:23-07:00</published>
+    <updated>2021-07-19T11:54:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/mcvities-rich-tea-biscuits-24x200g-regular-stock"/>
+    <title>McVitie&apos;s Rich Tea Biscuits 24x200g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Mcvitie&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mcvitie&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            44.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>McVitie's Rich Tea Biscuits 24x200g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6916721508518</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.25</s:price>
+      <s:sku>BI 05000168036281</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6916715085990</id>
+    <published>2021-07-19T11:47:53-07:00</published>
+    <updated>2021-07-19T11:47:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lucozade-energy-orange-3x8x380ml-regular-stock"/>
+    <title>Lucozade Energy Orange 3x8x380ml [Regular Stock]</title>
+    <s:type>Pop Cans</s:type>
+    <s:vendor>Lucozade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucozade<br>
+        <strong>Type: </strong>Pop Cans<br>
+        <strong>Price: </strong>
+            38.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lucozade Energy Original 3x8x380ml [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6916715085990</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.75</s:price>
+      <s:sku>PO 05054267400160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/5575949418662</id>
+    <published>2021-07-19T11:46:23-07:00</published>
+    <updated>2021-07-19T11:46:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lucozade-energy-original-3x8x380ml-regular-stock"/>
+    <title>Lucozade Energy Original 3x8x380ml [Regular Stock]</title>
+    <s:type>Pop Cans</s:type>
+    <s:vendor>Lucozade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5054267000162_1_348.jpg?v=1596653273"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucozade<br>
+        <strong>Type: </strong>Pop Cans<br>
+        <strong>Price: </strong>
+            38.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lucozade Energy Original 3x8x380ml [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/5575949418662</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.75</s:price>
+      <s:sku>PO 05054267400160</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173701677108</id>
+    <published>2021-07-19T11:45:59-07:00</published>
+    <updated>2021-07-19T11:45:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lucozade-original-energy-cans-24-330ml-regular-stock"/>
+    <title>Lucozade Original Energy Cans 24x330ml [Regular Stock]</title>
+    <s:type>Pop Cans</s:type>
+    <s:vendor>Lucozade</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51rIPUKx50L_5b4a8c61-f105-4fb8-a683-7fb3ba66c7a6.jpg?v=1585160050"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lucozade<br>
+        <strong>Type: </strong>Pop Cans<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lucozade Original Energy Cans 24x330ml [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173701677108</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>PO 400187</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6916706402470</id>
+    <published>2021-07-19T11:40:49-07:00</published>
+    <updated>2021-07-19T11:40:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hill-fruit-shorties-36x150g-regular-stock"/>
+    <title>Hill Fruit Shorties 36x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Barratt</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barratt<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            44.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hill Fruit Shorties 36x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6916706402470</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.75</s:price>
+      <s:sku>CA 0501028201073</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6916699553958</id>
+    <published>2021-07-19T11:35:21-07:00</published>
+    <updated>2021-07-19T11:35:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/harry-ramsdens-mushy-peas-original-12x300g-regular-stock"/>
+    <title>Harry Ramsden&apos;s Mushy Peas Original 12x300g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Batchelors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batchelors<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            14.75
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Harry Ramsden's Mushy Peas Original 12x300g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6916699553958</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.75</s:price>
+      <s:sku>VE 05000232904478</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6916685496486</id>
+    <published>2021-07-19T11:23:57-07:00</published>
+    <updated>2021-07-19T11:23:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/haribo-jelly-beans-12x160g-regular-stock"/>
+    <title>Haribo Jelly Beans 12x160g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/61qeimpQgUL._SX385_4dbdbd2c-f051-4ffd-86a1-b0d255a7db88.jpg?v=1626719038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            29.41
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haribo Jelly Beans 12x160g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6916685496486</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.41</s:price>
+      <s:sku>CA 05012035962524</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6830761836710</id>
+    <published>2021-06-07T12:58:42-07:00</published>
+    <updated>2021-06-07T12:58:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/haribo-supermix-12x160g-regular-stock"/>
+    <title>Haribo Supermix 12x160g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/haribo_super_mix_1988feb1-93dd-4d5e-b541-67f0490e05f4.jpg?v=1623095924"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            27.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haribo Supermix 12x160g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6830761836710</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.31</s:price>
+      <s:sku>CA 05012035962593</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6830563131558</id>
+    <published>2021-06-07T10:45:58-07:00</published>
+    <updated>2021-06-07T10:45:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/haribo-squidglets-12x160g-regular-stock"/>
+    <title>Haribo Squidglets 12x160g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/71eyh_2Bezg7L._SX342_851de206-7a35-437f-abfc-690fe397a727.jpg?v=1623087959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            27.31
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haribo Squidglets 12x160g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6830563131558</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.31</s:price>
+      <s:sku>CA 05012035962579</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6820383424678</id>
+    <published>2021-06-01T12:01:13-07:00</published>
+    <updated>2021-06-01T12:01:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/cadbury-roundie-milk-chocolate-biscuits-18x6-regular-stock"/>
+    <title>Cadbury Roundie Milk Chocolate Biscuits 18x6 [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/cadburyroundie.jpg?v=1622574356"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            34.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cadbury Roundie Milk Chocolate Biscuits 18x6 [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6820383424678</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.47</s:price>
+      <s:sku>BI 07622201421687</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817032765606</id>
+    <published>2021-05-31T13:11:55-07:00</published>
+    <updated>2021-05-31T13:11:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/goldenfry-chip-shop-granules-6x300g-regular-stock"/>
+    <title>Goldenfry Chip Shop Granules 6x250g [Regular Stock]</title>
+    <s:type>Cooking Aids/Sauces/Mixes</s:type>
+    <s:vendor>GoldenFry</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/golden_fry_250g_curry_sauce_granules_73939_1024x1024_35feea44-7a80-440f-9ff0-1c5721958c6a.jpg?v=1622491925"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>GoldenFry<br>
+        <strong>Type: </strong>Cooking Aids/Sauces/Mixes<br>
+        <strong>Price: </strong>
+            22.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Goldenfry Chip Shop Granules 6x250g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Campbells</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817032765606</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.15</s:price>
+      <s:sku>CO 05010105001609</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817028702374</id>
+    <published>2021-05-31T13:05:29-07:00</published>
+    <updated>2021-05-31T13:05:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/foxs-nice-biscuits-20x200g-regular-stock"/>
+    <title>Fox&apos;s Nice Biscuits 20x200g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Fox&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Foxs_Nice.jpg?v=1622491565"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fox&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            39.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fox's Nice Biscuits 20x200g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817028702374</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.96</s:price>
+      <s:sku>BI 05010035567923</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817025228966</id>
+    <published>2021-05-31T12:57:35-07:00</published>
+    <updated>2021-05-31T12:57:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/rowntrees-pick-mix-10x120g-regular-stock"/>
+    <title>Rowntree&apos;s Pick &amp; Mix 10x120g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Rowntrees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/10_580x_75e1c036-ea6b-4a3b-8d2c-590b464c994a.png?v=1622491057"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowntrees<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            32.14
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rowntree's Pick &amp; Mix 10x120g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817025228966</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.14</s:price>
+      <s:sku>CA 7613036862363</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817024409766</id>
+    <published>2021-05-31T12:55:47-07:00</published>
+    <updated>2021-05-31T12:55:47-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/rowntrees-randoms-minis-10x120g-regular-stock"/>
+    <title>Rowntree&apos;s Randoms Minis 10x120g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Rowntrees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/rowntrees_random_minis_33fae5df-da97-4194-b76c-ff7ef9aba457.png?v=1622490948"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowntrees<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            29.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rowntree's Randoms Minis 10x120g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817024409766</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.04</s:price>
+      <s:sku>CA 08593893765986</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817019658406</id>
+    <published>2021-05-31T12:42:54-07:00</published>
+    <updated>2021-05-31T12:42:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/mcvities-hobnobs-12x300g-regular-stock"/>
+    <title>McVitie&apos;s Hobnobs 12x300g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Mcvitie&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5000168008073_1_348_467f2de0-409c-447f-b131-3aa290f2ddb7.jpg?v=1622490176"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mcvitie&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            31.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>McVitie's Hobnobs 12x300g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817019658406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.33</s:price>
+      <s:sku>BI 05000168199665</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817012875430</id>
+    <published>2021-05-31T12:37:13-07:00</published>
+    <updated>2021-05-31T12:37:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lyons-viscount-mint-21x7pk-regular-stock"/>
+    <title>Lyon&apos;s Viscount Mint 21x7PK [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Lyon&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/W0cmqICfWlUQVD_FZ2kVp1TgbGPIHGV-RPCDRKXrBt08H0o__6nE1WfHsJ8wnG6XCKKdElauDUDxdUjaKtuE3FA_dcfa8771-cd32-4e40-b84b-278b9b6b89e8.jpg?v=1622489835"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lyon&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            29.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lyon's Viscount Mint 21x7PK [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817012875430</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.25</s:price>
+      <s:sku>BI 05010049141003</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817011597478</id>
+    <published>2021-05-31T12:35:03-07:00</published>
+    <updated>2021-05-31T12:35:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/burtons-jammie-dodgers-family-pack-12x210g-regular-stock"/>
+    <title>Burton&apos;s Jammie Dodgers Family Pack 12x210g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Burton&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/100742_1024x1024_8fb06bbf-ffcf-4a5c-964f-0fe18a2d9950.jpg?v=1622489704"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Burton&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            32.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Burton's Jammie Dodgers Family Pack 12x210g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817011597478</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.49</s:price>
+      <s:sku>BI 05010049155505</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817009631398</id>
+    <published>2021-05-31T12:32:06-07:00</published>
+    <updated>2021-05-31T12:32:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/heinz-baked-beans-curry-12x400g-regular-stock"/>
+    <title>Heinz Baked Beans Curry 12x400g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Heinz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="#"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Heinz<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            31.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Heinz Baked Beans Curry 12x400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Campbells</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817009631398</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.34</s:price>
+      <s:sku>VE 05000157100559</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6817004781734</id>
+    <published>2021-05-31T12:24:39-07:00</published>
+    <updated>2021-05-31T12:24:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/greens-classic-batter-6x125g-regular-stock"/>
+    <title>Green&apos;s Classic Batter 6x125g [Regular Stock]</title>
+    <s:type>Baking</s:type>
+    <s:vendor>Green&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/batter-600x600.jpg?v=1622489091"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green&#39;s<br>
+        <strong>Type: </strong>Baking<br>
+        <strong>Price: </strong>
+            8.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green's Classic Batter 6x125g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6817004781734</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">8.34</s:price>
+      <s:sku>BA 05000318108141</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816999506086</id>
+    <published>2021-05-31T12:18:12-07:00</published>
+    <updated>2021-05-31T12:18:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/foxs-golden-crunch-creams-16x230g-regular-stock"/>
+    <title>Fox&apos;s Golden Crunch Creams 16x230g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>Fox&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5010035066464_1_348_67c79aec-5bd8-47f1-9562-9838babebadd.jpg?v=1622488693"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fox&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            39.33
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fox's Golden Crunch Creams 12x230g [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816999506086</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.33</s:price>
+      <s:sku>BI 05010035566407</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816938000550</id>
+    <published>2021-05-31T11:05:58-07:00</published>
+    <updated>2021-05-31T11:05:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/rowntrees-fruit-pastilles-pouch-12x150g-regular-stock"/>
+    <title>Rowntree&apos;s Fruit Pastilles Pouch 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Rowntrees</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/006e013d-8db0-caee-8106-089d07623323_d4192c65-d774-4661-b977-af5e05915e81.png?v=1622484361"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rowntrees<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            31.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Rowntree's Fruit Pastilles Pouch 12x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816938000550</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.34</s:price>
+      <s:sku>CA 07613036925204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816920404134</id>
+    <published>2021-05-31T10:55:01-07:00</published>
+    <updated>2021-05-31T10:55:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/nestle-smarties-milk-chocolate-sharing-bar-12x90g-regular-stock"/>
+    <title>Nestle Smarties Milk Chocolate Orange Sharing Bar 12x90g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Block_20Orange_20Single.png?v=1622483766"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            37.89
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nestle Smarties Milk Chocolate Orange Sharing Bar 12x90g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816920404134</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.89</s:price>
+      <s:sku>CH 07613287104090</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816909066406</id>
+    <published>2021-05-31T10:47:50-07:00</published>
+    <updated>2021-05-31T10:47:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/copy-of-nestle-milkybar-cookies-cream-14x90g-regular-stock"/>
+    <title>Nestle Milkybar Cookies &amp; Cream 14x90g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Nestle-Milky-Bar-PM-_C2_A31_50062aeb-3172-4e8a-be05-85a669a4366e.jpg?v=1622483504"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            31.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nestle Milkybar Cookies &amp; Cream 14x90g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816909066406</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.34</s:price>
+      <s:sku>CH 07613039023433</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816906903718</id>
+    <published>2021-05-31T10:45:59-07:00</published>
+    <updated>2021-05-31T10:45:59-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/nestle-milkybar-block-14x90g-regular-stock"/>
+    <title>Nestle Milkybar Block 14x90g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Nestle-Milky-Bar-PM-_C2_A31_1bd4663b-9be3-4f4c-938a-69c03ae07656.jpg?v=1622483160"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            31.34
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nestle Milkybar Block 14x90g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816906903718</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.34</s:price>
+      <s:sku>CH 07613039574874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/6816902774950</id>
+    <published>2021-05-31T10:42:29-07:00</published>
+    <updated>2021-05-31T10:42:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/mcvities-gold-bars-22x142g-regular-stock"/>
+    <title>McVitie&apos;s Gold Bars 22x142g [Regular Stock]</title>
+    <s:type>Biscuits/Crackers</s:type>
+    <s:vendor>McVitie&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/mcvities-gold-6pk-500x500_b1d4afb3-3559-4af6-80dd-a2d0286397ef.jpg?v=1622482950"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>McVitie&#39;s<br>
+        <strong>Type: </strong>Biscuits/Crackers<br>
+        <strong>Price: </strong>
+            60.05
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>McVitie's Gold Bars 22x142g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6816902774950</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.05</s:price>
+      <s:sku>BI 05000168218694</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

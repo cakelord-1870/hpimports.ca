@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/vegetables.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-10-09T12:23:42-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4181246443572</id>
+    <published>2019-10-09T12:23:42-07:00</published>
+    <updated>2019-10-09T12:23:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/batchelors-mushy-peas-original-24-300g-regular-stock"/>
+    <title>Batchelors Mushy Peas Original 24x300g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Batchelors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5000232901422_1_348_8bd00008-f2bc-4074-94fe-b8fa0305ab72.jpg?v=1585159020"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batchelors<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            33.29
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Batchelors Mushy Peas Original 24x300g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4181246443572</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.29</s:price>
+      <s:sku>VE 1076467</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799641325620</id>
+    <published>2019-08-13T16:05:55-07:00</published>
+    <updated>2019-08-13T16:05:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/smedleys-marrowfat-peas-12-300g"/>
+    <title>Smedleys Marrowfat Peas 12x300g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Smedleys</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/451067_79ca9528-caae-4abc-a2d4-7d02a2ca4489.jpg?v=1585160605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Smedleys<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            14.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Smedleys Marrowfat Peas 12x300g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799641325620</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">14.25</s:price>
+      <s:sku>VE 451067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799641063476</id>
+    <published>2019-08-13T16:05:50-07:00</published>
+    <updated>2019-08-13T16:05:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/batchelors-bigga-dried-peas-box-24-250g"/>
+    <title>Batchelors Bigga Dried Peas Box 24x250g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Batchelors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51_2BJUq-_2BO5L._SY355.jpg?v=1585159006"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batchelors<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            36.62
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Batchelors Bigga Dried Peas Box 24x250g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799641063476</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.62</s:price>
+      <s:sku>VE 450064-1076737</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799640801332</id>
+    <published>2019-08-13T16:05:45-07:00</published>
+    <updated>2019-08-13T16:05:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/haywards-sweet-and-mild-sliced-beetroot-6-400g"/>
+    <title>Hayward&apos;s Sweet &amp; Mild Sliced Beetroot 6x400g [Regular Stock]</title>
+    <s:type>Vegetables</s:type>
+    <s:vendor>Hayward&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/beetroot_7466ef86-1c0c-4b40-a9e2-9c0ce632252a.jpg?v=1585159784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hayward&#39;s<br>
+        <strong>Type: </strong>Vegetables<br>
+        <strong>Price: </strong>
+            31.91
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hayward's Sweet &amp; Mild Sliced Beetroot 6x400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799640801332</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.91</s:price>
+      <s:sku>VE 1046856</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

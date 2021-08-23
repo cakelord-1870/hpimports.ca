@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/chocolate-bar-bag.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2021-03-04T11:44:36-08:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/6570600693926</id>
+    <published>2021-03-04T11:44:36-08:00</published>
+    <updated>2021-03-04T11:44:36-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/nestle-toffee-crisp-4pk-6x124g-regular-stock"/>
+    <title>Nestle Toffee Crisp 9PK [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Nestle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/toffee_crisp_milk_chocolate_bar_multipack_31g_9_pack_70598_T1.jpg?v=1618945476"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Nestle<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            64.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Nestle Toffee Crisp 9PK [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/6570600693926</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">64.35</s:price>
+      <s:sku>CH 07613036080644</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4330966122548</id>
+    <published>2019-11-05T12:01:42-08:00</published>
+    <updated>2019-11-05T12:01:42-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/galaxy-smooth-milk-chocolate-more-to-share-block-20-200g-regular-stock"/>
+    <title>Mars Galaxy Smooth Milk Chocolate More to Share Block 20x200g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5000159444231_1_348.jpg?v=1585160135"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            100.67
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mars Galaxy Smooth Milk Chocolate More to Share Block 20x200g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4330966122548</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">100.67</s:price>
+      <s:sku>CH 1077214</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173759905844</id>
+    <published>2019-10-03T17:08:13-07:00</published>
+    <updated>2019-10-03T17:08:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/mars-galaxy-crispy-bar-pm-24-102g-regular-stock"/>
+    <title>Mars Galaxy Crispy Bar (PM) 24x102g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5900951260506_b71ad93b-35f0-4f5e-a679-3bfd013b95cd.jpg?v=1585160112"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            60.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mars Galaxy Crispy Bar (PM) 24x102g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173759905844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">60.45</s:price>
+      <s:sku>CH 1022754</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173688963124</id>
+    <published>2019-10-03T16:46:58-07:00</published>
+    <updated>2019-10-03T16:46:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/galaxy-crispy-bar-24-102gm-regular-stock"/>
+    <title>Mars Galaxy Crispy Bar 24x102g [Regular Stock]</title>
+    <s:type>Chocolate Bar/Bag</s:type>
+    <s:vendor>Mars</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/81AKSQjNCzL._SL1500_5511a7b0-7aaa-45de-a8c8-bd21b5337bd7.jpg?v=1585160114"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Mars<br>
+        <strong>Type: </strong>Chocolate Bar/Bag<br>
+        <strong>Price: </strong>
+            79.32
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Mars Galaxy Crispy Bar 24x102g [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173688963124</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">79.32</s:price>
+      <s:sku>CH 1035458</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

@@ -1,0 +1,854 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/bagged-candy.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-10-21T15:26:25-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4294817644596</id>
+    <published>2019-10-21T15:26:25-07:00</published>
+    <updated>2019-10-21T15:26:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/blackwoods-blackpool-rock-70s-regular-stock"/>
+    <title>Blackwoods Blackpool Rock 70s [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>RD Blackwood</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/sticksofrock_9a7375a2-09e9-488a-b245-5821730e3c1c.jpg?v=1585159099"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>RD Blackwood<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            68.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Blackwoods Blackpool Rock 70s [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-R.D. Blackwood &amp; Son Ltd.</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4294817644596</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">68.95</s:price>
+      <s:sku>CA  81</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4181283471412</id>
+    <published>2019-10-09T13:00:56-07:00</published>
+    <updated>2019-10-09T13:00:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/victoria-mint-humbugs-12-250-regular-stock"/>
+    <title>Victoria Mint Humbugs 12x250g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Victoria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/victoria-mint-humbugs-250gr_96088ae2-a608-4b4f-af43-84307b0e6e73.jpg?v=1585160794"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victoria<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victoria Mint Humbugs 12x250g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4181283471412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku>CA 1023929</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4177328177204</id>
+    <published>2019-10-06T19:23:12-07:00</published>
+    <updated>2019-10-06T19:23:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/bonds-strawberry-bon-bons-pm-12-150g-regular-stock"/>
+    <title>Bonds Strawberry Bon Bons Share Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Bonds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/straw_bon_2c72eb60-889a-4389-9a36-594456048e91.png?v=1585159175"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonds<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            21.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonds Strawberry Bon Bons Share Bags 12x150g [Regular Stock] <strong>BBD 31May20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4177328177204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.86</s:price>
+      <s:sku>CA 306319</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4177310220340</id>
+    <published>2019-10-06T19:10:19-07:00</published>
+    <updated>2019-10-06T19:10:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/bonds-sherbet-lemons-share-bags-12-150g-regular-stock"/>
+    <title>Bonds Sherbet Lemons Share Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Bonds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/lem_sher_4bc127dc-fd3c-4778-b95e-721c438d0968.png?v=1585159171"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonds<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            21.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonds Sherbet Lemons Share Bags 12x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4177310220340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.86</s:price>
+      <s:sku>CA 306299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4176146333748</id>
+    <published>2019-10-05T21:14:31-07:00</published>
+    <updated>2019-10-05T21:14:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/bonds-rhubarb-custard-12-150g-regular-stock"/>
+    <title>Bonds Rhubarb &amp; Custard Share Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Bonds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/bonds_rhu_ae3185ad-e822-4e9f-be6e-8650b40c25a8.png?v=1585159168"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonds<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            21.86
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonds Rhubarb &amp; Custard Share Bags 12x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4176146333748</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">21.86</s:price>
+      <s:sku>CA 306474</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4160712474676</id>
+    <published>2019-10-03T16:47:23-07:00</published>
+    <updated>2019-10-03T16:47:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/ca-20878"/>
+    <title>Fox&apos;s XXX Extra Strong Peppermint 5PK 12x205g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Fox&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5pk_xxx.png?v=1585159605"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fox&#39;s<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            31.96
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fox's XXX Extra Strong Peppermint 5PK 12x205g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4160712474676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">31.96</s:price>
+      <s:sku>CA 20878-1035437</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4160713424948</id>
+    <published>2019-10-03T16:47:22-07:00</published>
+    <updated>2019-10-03T16:47:22-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/ca-306459"/>
+    <title>Bonds Sugar Free Mint Humbugs Jar 2kg [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Bonds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/sf_mh_jar.png?v=1585159178"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonds<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            44.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonds Sugar Free Mint Humbugs Jar 2kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4160713424948</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.17</s:price>
+      <s:sku>CA 306459</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173691912244</id>
+    <published>2019-10-03T14:30:02-07:00</published>
+    <updated>2019-10-03T14:30:02-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/taveners-caramints-travel-tin-12-200g-regular-stock"/>
+    <title>Taveners Caramints Travel Tin 12*200g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Taveners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/taveners_caramint_tin_8f6a3ea2-4ce1-408b-8adc-6c838ac5e823.jpg?v=1585160680"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taveners<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            41.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taveners Caramints Travel Tin 12*200g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173691912244</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">41.04</s:price>
+      <s:sku>CA 301289</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173689061428</id>
+    <published>2019-10-03T14:20:25-07:00</published>
+    <updated>2019-10-03T14:20:25-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/real-candy-co-pink-white-nougat-12-150g-regular-stock"/>
+    <title>Real Candy Co. Pink &amp; White Nougat 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Real Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/real_candy_co_pink_white_c2a2b15e-5ee6-43cf-a255-47febe33e4db.jpg?v=1585160502"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Candy Co.<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            28.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Real Candy Co. Pink &amp; White Nougat 12x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173689061428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.74</s:price>
+      <s:sku>CA 4020x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799618912308</id>
+    <published>2019-08-13T15:58:32-07:00</published>
+    <updated>2019-08-13T15:58:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-andy-pack-original-creamy-toffee-10-100g"/>
+    <title>Walker&apos;s Andy Pack Original Creamy Toffee 10x100g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/81Ja9o1rlHL._SX385.jpg?v=1585160842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            15.27
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Andy Pack Original Creamy Toffee 10x100g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799618912308</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.27</s:price>
+      <s:sku>CA 77470</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799618355252</id>
+    <published>2019-08-13T15:58:21-07:00</published>
+    <updated>2019-08-13T15:58:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/funny-money-euros-24s"/>
+    <title>Crazy Candy Factory Funny Money 24x14g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Crazy Candy Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/funmon.png?v=1585159523"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Crazy Candy Factory<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            26.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Crazy Candy Factory Funny Money 24x14g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799618355252</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.17</s:price>
+      <s:sku>CA 43354-300299</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799617765428</id>
+    <published>2019-08-13T15:58:09-07:00</published>
+    <updated>2019-08-13T15:58:09-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-original-english-creamy-toffee-bags-12-150g"/>
+    <title>Walker&apos;s Original English Creamy Toffee Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51ntiKfc3BL._SY355.jpg?v=1585160904"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            26.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walkers Original English Creamy Toffee Bags 12x150g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799617765428</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.65</s:price>
+      <s:sku>CA 42273-43710</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799617732660</id>
+    <published>2019-08-13T15:58:08-07:00</published>
+    <updated>2019-08-13T15:58:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-milk-chocolate-eclairs-bags-12-150g"/>
+    <title>Walker&apos;s Milk Chocolate Eclairs Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/42243_150g_bag_milk_choc_eclair.jpg?v=1585160863"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            26.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Milk Chocolate Eclairs Bags 12x150g [Regular Stock] <strong>BBD 30Jun20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799617732660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.65</s:price>
+      <s:sku>CA 42243-43712</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799617470516</id>
+    <published>2019-08-13T15:58:04-07:00</published>
+    <updated>2019-08-13T15:58:04-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/candy-co-coconut-ice-giant-bars-12-150gm"/>
+    <title>Real Candy Co. Coconut Ice Giant Bars 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Real Candy Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/real_candy_co_coconut_ice.jpg?v=1585160499"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Real Candy Co.<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            28.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Real Candy Co. Coconut Ice Giant Bars 12x150g [Regular Stock] <strong>BBD 31Jul20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799617470516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.74</s:price>
+      <s:sku>CA 40226</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799616946228</id>
+    <published>2019-08-13T15:57:53-07:00</published>
+    <updated>2019-08-13T15:57:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/bonds-cola-cubes-2-5kg"/>
+    <title>Bonds Cola Cubes 2.5kg [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Bonds</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/bonds_cola_cubes_23bb9e24-8bdb-4370-8b69-d4f7056975bc.png?v=1585159126"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bonds<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            33.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bonds Cola Cubes 2.5kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799616946228</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.97</s:price>
+      <s:sku>CA 306426</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799615733812</id>
+    <published>2019-08-13T15:57:26-07:00</published>
+    <updated>2019-08-13T15:57:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/victoria-spearmint-chews-12-250g"/>
+    <title>Victoria Spearmint Chews 12x250g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Victoria</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/victoria_spearmint_chews.jpg?v=1585160799"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Victoria<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            24.85
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Victoria Spearmint Chews 12x250g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799615733812</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.85</s:price>
+      <s:sku>CA 1023932</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799613833268</id>
+    <published>2019-08-13T15:56:44-07:00</published>
+    <updated>2019-08-13T15:56:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/haribo-pontefract-cakes-12-140g"/>
+    <title>Haribo Pontefract Cakes 12x140g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Haribo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/haribo_pantefract_cakes.jpg?v=1585159738"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Haribo<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            26.74
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Haribo Pontefract Cakes 12x140g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799613833268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.74</s:price>
+      <s:sku>CA 303295-1023668</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799613702196</id>
+    <published>2019-08-13T15:56:41-07:00</published>
+    <updated>2019-08-13T15:56:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/fizz-wizz-popping-candy-strawb-50s"/>
+    <title>Fizz Wizz Popping Candy Strawberry (50&apos;s) [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Fizz Wizz</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/FresaConjun.png?v=1585159586"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Fizz Wizz<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            23.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Fizz Wizz Popping Candy Strawberry (50's) [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799613702196</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.65</s:price>
+      <s:sku>CA 42065-300292</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799613407284</id>
+    <published>2019-08-13T15:56:27-07:00</published>
+    <updated>2019-08-13T15:56:27-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-assorted-toffee-and-eclairs-bags-12-150g"/>
+    <title>Walker&apos;s Assorted Toffee &amp; Eclairs Bags 12x150g [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/23866-01_2.jpg?v=1585160848"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            26.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Assorted Toffee &amp; Eclairs Bags 12x150g [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799613407284</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.65</s:price>
+      <s:sku>CA 23866-406671</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799611310132</id>
+    <published>2019-08-13T15:55:41-07:00</published>
+    <updated>2019-08-13T15:55:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/gourmet-lollipop-co-sherbet-lemon-lollipops-70-units"/>
+    <title>Candy Factory Sherbet Lemon Lollipops 70s [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Gourmet Lollipop Co.</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/gormet-sherbet-lemon-lollipop-1.png?v=1585159669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Gourmet Lollipop Co.<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gourmet Lollipop Co Sherbet Lemon Lollipops 70s [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799611310132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>CA 02596</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799611113524</id>
+    <published>2019-08-13T15:55:37-07:00</published>
+    <updated>2019-08-13T15:55:37-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/gourmet-lollipop-co-bubblegum-lollipops-70s"/>
+    <title>Candy Factory Bubblegum Lollipops 70s [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Candy Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/81wuL6vNfKL._SX466_PIcountsize-30_TopRight_0_0_SX466SY421SH20.jpg?v=1585159664"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy Factory<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gourmet Lollipop Co Bubblegum Lollipops 70's [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799611113524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>CA 02486</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799611015220</id>
+    <published>2019-08-13T15:55:35-07:00</published>
+    <updated>2019-08-13T15:55:35-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/gourmet-lollipop-co-blueberry-lollipops-70-units"/>
+    <title>Candy Factory Blueberry &amp; Cream Lollipops 70s [Regular Stock]</title>
+    <s:type>Bagged Candy</s:type>
+    <s:vendor>Candy Factory</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/41YiGzx5B8L_b8c04c12-9e73-40b5-94bf-39b9ca4ce23e.jpg?v=1585159662"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Candy Factory<br>
+        <strong>Type: </strong>Bagged Candy<br>
+        <strong>Price: </strong>
+            39.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Gourmet Lollipop Co Blueberry &amp; Cream Lollipops 70's [Regular Stock] <strong>BBD 30Jun20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799611015220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.95</s:price>
+      <s:sku>CA 02473</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

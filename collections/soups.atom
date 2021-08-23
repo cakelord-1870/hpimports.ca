@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/soups.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-12-01T14:26:48-08:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4166195839028</id>
+    <published>2019-12-01T14:26:48-08:00</published>
+    <updated>2019-12-01T14:26:48-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/baxters-potato-and-leek-soup-12-380gm-preorder"/>
+    <title>Baxters Favourites Potato &amp; Leek Soup 12x400g [Regular Stock]</title>
+    <s:type>Soups</s:type>
+    <s:vendor>Baxters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5012427143005_1_348_50096eef-d41c-4819-b74e-ffef8849220e.jpg?v=1585159030"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baxters<br>
+        <strong>Type: </strong>Soups<br>
+        <strong>Price: </strong>
+            36.04
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baxters Favourites Potato &amp; Leek Soup 12x400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4166195839028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.04</s:price>
+      <s:sku>SO 1033050</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799638671412</id>
+    <published>2019-08-13T16:04:55-07:00</published>
+    <updated>2019-08-13T16:04:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/batchelors-cup-a-soup-tomato-vegetable-9-104gm"/>
+    <title>Batchelors Cup A Soup Tomato &amp; Vegetable 4PK 9x104g [Regular Stock]</title>
+    <s:type>Soups</s:type>
+    <s:vendor>Batchelors</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/81RL3QukBCL._SL1500.jpg?v=1585159016"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Batchelors<br>
+        <strong>Type: </strong>Soups<br>
+        <strong>Price: </strong>
+            34.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Batchelors Cup A Soup Tomato &amp; Vegetable 4PK 9x104g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799638671412</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">34.00</s:price>
+      <s:sku>SO 1076769</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799638343732</id>
+    <published>2019-08-13T16:04:49-07:00</published>
+    <updated>2019-08-13T16:04:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/baxters-vegetarian-minestrone-12-400gm"/>
+    <title>Baxters Vegetarian Minestrone with Wholewheat Pasta 12x400g [Regular Stock]</title>
+    <s:type>Soups</s:type>
+    <s:vendor>Baxters</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51Ecw8-rkdL._SX425.jpg?v=1585159037"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Baxters<br>
+        <strong>Type: </strong>Soups<br>
+        <strong>Price: </strong>
+            39.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Baxters Vegetarian Minestrone with Wholewheat Pasta 12x400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799638343732</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.81</s:price>
+      <s:sku>SO 1033671</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

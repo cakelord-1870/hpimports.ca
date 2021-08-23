@@ -1,0 +1,961 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/bulk-candy.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2020-02-11T09:22:18-08:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4467770490932</id>
+    <published>2020-02-11T09:22:18-08:00</published>
+    <updated>2020-02-11T09:22:18-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-mintoes-3kg-regular-stock"/>
+    <title>Kingsway Mintoes 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/01515-02_1.jpg?v=1585159957"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            27.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Mint Humbugs 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4467770490932</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.17</s:price>
+      <s:sku>BC 01515</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173658030132</id>
+    <published>2019-10-23T17:29:06-07:00</published>
+    <updated>2019-10-23T17:29:06-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/copy-of-taveners-liqourice-comfits-3-kg-pre-order-stock"/>
+    <title>Taveners Liquorice Comfits 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Taveners</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/80659_liquorice_comfits_bulk.jpg?v=1585160684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Taveners<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            36.37
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Taveners Liquorice Comfits 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173658030132</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.37</s:price>
+      <s:sku>BC 80659</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4265626501172</id>
+    <published>2019-10-15T09:54:38-07:00</published>
+    <updated>2019-10-15T09:54:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-jumbo-fizzy-cola-bottles-3-kg-regular-stock"/>
+    <title>Kingsway Jumbo Fizzy Cola Bottles 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/jumbo_fizzy_cola_0d769591-8857-40b1-8c64-aa49c22a9a66.png?v=1585159943"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            28.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Jumbo Fizzy Cola Bottles 3kg [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4265626501172</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.87</s:price>
+      <s:sku>BC 304198</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4179380863028</id>
+    <published>2019-10-08T14:26:10-07:00</published>
+    <updated>2019-10-08T14:26:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lion-poor-bens-2kg-regular-stock"/>
+    <title>Lion Poor Bens 2kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Lion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/lion_poor_bens_ff38286b-8cac-48a2-bbec-66592b2856aa.png?v=1585160038"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lion<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            33.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lion Poor Bens 2kg [Regular Stock] <strong>BBD 30May20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4179380863028</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.97</s:price>
+      <s:sku>BC 49942</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4179258540084</id>
+    <published>2019-10-08T12:52:54-07:00</published>
+    <updated>2019-10-08T12:52:54-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-everton-mints-3-kg-regular-stock"/>
+    <title>Kingsway Everton Mints 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/everton_8b2de1ec-ebd2-4365-a195-8bfe91a2bbbe.png?v=1585159921"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            27.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Everton Mints 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4179258540084</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.17</s:price>
+      <s:sku>BC 83537</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607705652</id>
+    <published>2019-08-13T15:54:30-07:00</published>
+    <updated>2019-08-13T15:54:30-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-aniseed-twist-wrapped-3kg"/>
+    <title>Kingsway Aniseed Twist wrapped 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/aniseed_wrap_95bb36f9-e922-498c-9b07-75a523ce2a74.png?v=1585159900"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            25.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Aniseed Twist wrapped 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607705652</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.47</s:price>
+      <s:sku>BC 83626</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607574580</id>
+    <published>2019-08-13T15:54:28-07:00</published>
+    <updated>2019-08-13T15:54:28-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-jargonelle-pears-wrapped-3kg"/>
+    <title>Kingsway Jargonelle Pears (Wrapped) 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/jarg_46fc999d-ecda-42e1-9f25-90d82b4efc35.png?v=1585159932"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            25.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Jargonelle Pears (Wrapped) 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607574580</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.47</s:price>
+      <s:sku>BC 83545</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607345204</id>
+    <published>2019-08-13T15:54:24-07:00</published>
+    <updated>2019-08-13T15:54:24-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-rhubarb-and-custard-wrapped-3-kg"/>
+    <title>Kingsway Rhubarb &amp; Custard (wrapped) 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/rhu_30636f64-b7d8-43f3-b1fc-50dc4542222f.png?v=1585159959"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            29.79
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Rhubarb &amp; Custard (wrapped) 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607345204</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.79</s:price>
+      <s:sku>BC 80344</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607312436</id>
+    <published>2019-08-13T15:54:23-07:00</published>
+    <updated>2019-08-13T15:54:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-fruity-sherbets-3-kg"/>
+    <title>Kingsway Fruity Sherbets 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/sherb_fruits_dacab8cc-7514-459d-9354-9557102be0ef.png?v=1585159929"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            27.17
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Fruity Sherbets 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607312436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.17</s:price>
+      <s:sku>BC 80328</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607246900</id>
+    <published>2019-08-13T15:54:23-07:00</published>
+    <updated>2019-08-13T15:54:23-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-soft-fruit-jellies-3-kg"/>
+    <title>Kingsway Soft Fruit Jellies 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/kw_soft_34cff3b5-e814-48ce-98d6-6ea2f69f85c9.png?v=1585159973"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            23.76
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Soft Fruit Jellies 3kg [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607246900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.76</s:price>
+      <s:sku>BC 8031X</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607181364</id>
+    <published>2019-08-13T15:54:21-07:00</published>
+    <updated>2019-08-13T15:54:21-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-chocolate-fruits-3-kg"/>
+    <title>Kingsway Chocolate Fruits 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/choco_fruits.png?v=1585159916"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            23.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Chocolate Fruits 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607181364</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.50</s:price>
+      <s:sku>BC 80255</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607050292</id>
+    <published>2019-08-13T15:54:19-07:00</published>
+    <updated>2019-08-13T15:54:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-treacle-toffee-2-5-kg"/>
+    <title>Walker&apos;s Treacle Toffees 2.5kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/treacle_toff.png?v=1585160884"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            38.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Treacle Toffees 2.5kg [Regular Stock] <strong>BBD 30Jul20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607050292</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.65</s:price>
+      <s:sku>BC 78179</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799607017524</id>
+    <published>2019-08-13T15:54:18-07:00</published>
+    <updated>2019-08-13T15:54:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-olde-english-original-creamy-toffee-2-5-kg"/>
+    <title>Walker&apos;s English Creamy Toffees (original) 2.5kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/78161_60e0a1d3-a84b-43ed-a7be-d5a4ea3ef250.png?v=1585160858"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            38.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's English Creamy Toffees (original) 2.5kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799607017524</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.65</s:price>
+      <s:sku>BC 78161</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606951988</id>
+    <published>2019-08-13T15:54:17-07:00</published>
+    <updated>2019-08-13T15:54:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-assorted-toffee-and-eclairs-2-5-kg"/>
+    <title>Walker&apos;s Assorted Toffee &amp; Eclairs 2.5 kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/78110_484fc80f-1f63-4469-8bda-50c039667695.png?v=1585160846"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            38.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Assorted Toffee &amp; Eclairs 2.5 kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606951988</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.65</s:price>
+      <s:sku>BC 78110</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606755380</id>
+    <published>2019-08-13T15:54:14-07:00</published>
+    <updated>2019-08-13T15:54:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-wine-gums-3-kg"/>
+    <title>Kingsway Wine Gums 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/kw_wine_b1477865-845b-4190-b3f5-66282bea4183.png?v=1585159985"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            23.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Wine Gums 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606755380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">23.97</s:price>
+      <s:sku>BC 76300</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606689844</id>
+    <published>2019-08-13T15:54:12-07:00</published>
+    <updated>2019-08-13T15:54:12-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/swizzels-barley-sugar-3-kg"/>
+    <title>Swizzels Barley Sugar 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Swizzels</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/barley_sugar_9d1cf5e0-35f9-43d3-ae8c-dc6981f64654.png?v=1585160640"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Swizzels<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            37.11
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Swizzels Barley Sugar 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606689844</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.11</s:price>
+      <s:sku>BC 76020</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606591540</id>
+    <published>2019-08-13T15:54:10-07:00</published>
+    <updated>2019-08-13T15:54:10-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/vidal-fizzy-red-blue-raspberry-cable-6-kg"/>
+    <title>Vidal Fizzy Red/Blue Raspberry Cable 6kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Vidal</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/fizblurd_cable_2_7bdcd671-781c-4b05-9fbc-2d098bbca846.png?v=1585160807"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Vidal<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            50.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Vidal Fizzy Red/Blue Raspberry Cable 6kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606591540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">50.97</s:price>
+      <s:sku>BC 71354</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606493236</id>
+    <published>2019-08-13T15:54:08-07:00</published>
+    <updated>2019-08-13T15:54:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-milk-chocolate-covered-toffee-2-5kg"/>
+    <title>Walker&apos;s Milk Chocolate Covered Toffees 2.5kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/69656_e3536616-b8c2-42ff-aaca-05b455a76bc6.png?v=1585160860"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            38.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Milk Chocolate Covered Toffees 2.5kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606493236</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.65</s:price>
+      <s:sku>BC 69656</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799606460468</id>
+    <published>2019-08-13T15:54:07-07:00</published>
+    <updated>2019-08-13T15:54:07-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/walkers-banana-eclairs-toffee-2-5kg"/>
+    <title>Walker&apos;s Banana Split Eclairs (Toffee) 2.5kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/69648_e49cb941-db9a-4194-bbac-3ee3bc417532.png?v=1585160849"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Walkers<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            38.65
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Walker's Banana Split Eclairs (Toffee) 2.5kg [Regular Stock] <strong>BBD 30Apr20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799606460468</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">38.65</s:price>
+      <s:sku>BC 69648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799605444660</id>
+    <published>2019-08-13T15:53:46-07:00</published>
+    <updated>2019-08-13T15:53:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-yorkshire-mix-bag-3-18kg"/>
+    <title>Kingsway Yorkshire Mix Bag 3.1Kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/yorkshire.png?v=1585159988"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            30.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Yorkshire Mix Bag 3.1Kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799605444660</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.57</s:price>
+      <s:sku>BC 56648</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799605346356</id>
+    <published>2019-08-13T15:53:44-07:00</published>
+    <updated>2019-08-13T15:53:44-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-jumbo-fizzy-bubblegum-bottles-3-kg"/>
+    <title>Kingsway Jumbo Fizzy Bubblegum Bottles 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/jumbo_bubble.png?v=1585159941"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            28.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Jumbo Fizzy Bubblegum Bottles 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799605346356</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.87</s:price>
+      <s:sku>BC 54706</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799605280820</id>
+    <published>2019-08-13T15:53:42-07:00</published>
+    <updated>2019-08-13T15:53:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/kingsway-baby-dolphins-3kg"/>
+    <title>Kingsway Baby Dolphins 3kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Kingsway</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/baby_dolphins.png?v=1585159902"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Kingsway<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            26.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Kingsway Baby Dolphins 3kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799605280820</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.49</s:price>
+      <s:sku>BC 50186</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799605182516</id>
+    <published>2019-08-13T15:53:39-07:00</published>
+    <updated>2019-08-13T15:53:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/lion-liquorice-gums-2kg"/>
+    <title>Lion Liquorice Gums 2kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Lion</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/lion_liq_gums.png?v=1585160033"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Lion<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            33.97
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Lion Liquorice Gums 2kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799605182516</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">33.97</s:price>
+      <s:sku>BC 49926</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799604854836</id>
+    <published>2019-08-13T15:53:32-07:00</published>
+    <updated>2019-08-13T15:53:32-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/sugar-free-dandelion-and-burdock-jar-2kg"/>
+    <title>Barnetts Sugar Free Dandelion &amp; Burdock Jar 2kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Barnetts</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/sf_dand.png?v=1585158960"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Barnetts<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            47.57
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Barnetts Sugar Free Dandelion &amp; Burdock Jar 2kg [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799604854836</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">47.57</s:price>
+      <s:sku>BC 41960</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799604559924</id>
+    <published>2019-08-13T15:53:20-07:00</published>
+    <updated>2019-08-13T15:53:20-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/millions-blackcurrant-jar-2-2-kg"/>
+    <title>Millions Blackcurrant Jar 2.2kg [Regular Stock]</title>
+    <s:type>Bulk Candy</s:type>
+    <s:vendor>Millions</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51Ff4EX3TyL._AC_SY400_ML2.jpg?v=1585160255"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Millions<br>
+        <strong>Type: </strong>Bulk Candy<br>
+        <strong>Price: </strong>
+            42.47
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Millions Blackcurrant Jar 2.2kg [Regular Stock] <strong>BBD 30Jun20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-Hancocks Sheffield</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799604559924</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.47</s:price>
+      <s:sku>BC 37519</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

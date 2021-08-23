@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/drinks.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-10-30T15:51:41-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4322258681908</id>
+    <published>2019-10-30T15:51:41-07:00</published>
+    <updated>2019-10-30T15:51:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/clipper-fairtrade-everyday-tea-6-40-125g-regular-stock"/>
+    <title>Clipper Fairtrade Everyday Tea 6PK 40x125g [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Clipper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5021991222405_1_348.jpg?v=1585159433"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clipper<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            30.46
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clipper Fairtrade Everyday Tea 6PK 40x125g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4322258681908</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">30.46</s:price>
+      <s:sku>HD ACLIP-FTBAG</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4310176170036</id>
+    <published>2019-10-24T08:54:26-07:00</published>
+    <updated>2019-10-24T08:54:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/twinings-cranberry-raspberry-elderflower-teabags-4-20s-regular-stock"/>
+    <title>Twinings Cranberry, Raspberry &amp; Elderflower Teabags 4x20&apos;s [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Twinings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/41vlQZ2tZvL._AC_SY400_4f745e35-38c2-434f-a756-d6d53d4473b1.jpg?v=1585160774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinings<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            20.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinings Cranberry, Raspberry &amp; Elderflower Teabags 4x20's [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4310176170036</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">20.23</s:price>
+      <s:sku>HD 450791-1038671</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799634444340</id>
+    <published>2019-08-13T16:03:31-07:00</published>
+    <updated>2019-08-13T16:03:31-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/bewleys-tea-gold-6-80s"/>
+    <title>Bewley&apos;s Tea Gold 6x80s [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Bewley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Bewley_s_Gold_Blend_Tea_80_Tea_Bags_250g_c6b788ae-8192-4b5f-883f-3b64243ca12e.png?v=1585159070"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Bewley&#39;s<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            54.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Bewley's Tea Gold 6x80s [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799634444340</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">54.50</s:price>
+      <s:sku>HD 4TRT0155</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799634313268</id>
+    <published>2019-08-13T16:03:29-07:00</published>
+    <updated>2019-08-13T16:03:29-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/nettle-herb-tea-6-20s"/>
+    <title>Clipper Organic Infusion Nettle Tea 6PK 20x30g [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Clipper</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/816PBRZTOHL._SX425_93d1f0e4-d773-409a-9ee8-4df3e2f2003c.jpg?v=1585159436"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Clipper<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            22.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Clipper Organic Infusion Nettle Tea 6PK 20x30g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799634313268</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.20</s:price>
+      <s:sku>HD ATEA-CNHT</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799633690676</id>
+    <published>2019-08-13T16:03:18-07:00</published>
+    <updated>2019-08-13T16:03:18-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/cadbury-drinking-chocolate-6-250g-pm"/>
+    <title>Cadbury Drinking Chocolate (PM) 6x250g [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/7622210218575.jpg?v=1585159327"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            36.69
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cadbury Drinking Chocolate (PM) 6x250g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799633690676</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">36.69</s:price>
+      <s:sku>HD 450830-1039143</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799633625140</id>
+    <published>2019-08-13T16:03:17-07:00</published>
+    <updated>2019-08-13T16:03:17-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/twinings-origins-assam-tea-4-40s"/>
+    <title>Twinings Origins Assam Tea Strong &amp; Malty 4x40s [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Twinings</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/0070177137755_1_348_ffaabde4-5ff2-4950-a136-45a5a86ae224.jpg?v=1585160784"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Twinings<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            29.95
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Twinings Origins Assam Tea Strong &amp; Malty 4x40s [Regular Stock] BBD 30May20</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799633625140</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.95</s:price>
+      <s:sku>HD 450801-1038482</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799633264692</id>
+    <published>2019-08-13T16:03:08-07:00</published>
+    <updated>2019-08-13T16:03:08-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/cadbury-hot-drinking-choc-6-500g"/>
+    <title>Cadbury Drinking Chocolate 6x500g [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Cadbury</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/51ISNtC6zAL._SX425.jpg?v=1585159354"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Cadbury<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            63.99
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Cadbury Drinking Chocolate 6x500g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799633264692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">63.99</s:price>
+      <s:sku>HD 400905-1039144</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799632937012</id>
+    <published>2019-08-13T16:02:50-07:00</published>
+    <updated>2019-08-13T16:02:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/pg-tips-original-12-40s"/>
+    <title>PG Tips Original 12x40&apos;s [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>PG Tips</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/8712100712029_1_348_ee42681a-d176-46e7-a40d-303a963922ab.jpg?v=1585160447"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>PG Tips<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            56.78
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>PG Tips Original 12x40's [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799632937012</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">56.78</s:price>
+      <s:sku>HD 1075764</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799632838708</id>
+    <published>2019-08-13T16:02:48-07:00</published>
+    <updated>2019-08-13T16:02:48-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/typhoo-decaff-teabags-6-80s"/>
+    <title>Typhoo Decaff Teabags 6x80&apos;s [Regular Stock]</title>
+    <s:type>Drinks</s:type>
+    <s:vendor>Typhoo</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5055486000070_1_348_d54f1721-d044-4321-85b3-dcbd4c90bae7.jpg?v=1585160789"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Typhoo<br>
+        <strong>Type: </strong>Drinks<br>
+        <strong>Price: </strong>
+            35.84
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Typhoo Decaff Teabags 6x80's [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799632838708</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">35.84</s:price>
+      <s:sku>HD 1039369</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

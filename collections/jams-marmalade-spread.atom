@@ -1,0 +1,696 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/jams-marmalade-spread.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2020-03-25T15:53:49-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4490308911156</id>
+    <published>2020-03-25T15:53:49-07:00</published>
+    <updated>2020-03-25T15:53:49-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-blueberry-jam-6x340g-pre-order-stock"/>
+    <title>Hartley&apos;s Best of Blueberry Jam 6x340g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/FJM_HRT_BLUB_-00_Hartleys-Blueberry-Jam.jpg?v=1585177010"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Best of Blueberry Jam 6x340g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4490308911156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.81</s:price>
+      <s:sku>JM 1098873x</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4373146992692</id>
+    <published>2019-11-25T10:20:57-08:00</published>
+    <updated>2019-11-25T10:20:57-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/frank-coopers-original-coarse-oxford-marmalade-6x454gm-regular-stock"/>
+    <title>Frank Coopers Original Coarse Cut Oxford Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Frank Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5035660138775_1_348_a9b86dc9-9f31-4463-9a67-b914a8836f4c.jpg?v=1585159562"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frank Coopers<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            42.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frank Coopers Original Coarse Cut Oxford Marmalade 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4373146992692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.87</s:price>
+      <s:sku>JM 1093131</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4310161555508</id>
+    <published>2019-10-24T08:54:26-07:00</published>
+    <updated>2019-10-24T08:54:26-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/copy-of-roses-lime-fine-cut-marmalade-6-454g-regular-stock"/>
+    <title>Roses Lime Fine Cut Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Rose&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/Roses_20Lime_20Marmalade-x9od__width_900__height_900__zoomcrop_none__bgcolour_FFF_1da852f8-092a-4e1f-aeae-6ec88b5d7ef2.jpg?v=1585160551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses Lime Fine Cut Marmalade 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4310161555508</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku>JM 1093201</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173760036916</id>
+    <published>2019-10-03T17:09:41-07:00</published>
+    <updated>2019-10-03T17:09:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/stute-diabetic-blackcurrant-jam-jar-pm-6-430g-regular-stock"/>
+    <title>Stute No Sugar Added Blackcurrant Jam 6x430g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Stute</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/61046_2BGYFiL._SY355_00538706-47ba-4fdb-8882-c217705bff2c.jpg?v=1585160625"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Stute<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            29.20
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Stute No Sugar Added Blackcurrant Jam 6x430g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173760036916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">29.20</s:price>
+      <s:sku>JM 550027</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4160716963892</id>
+    <published>2019-10-03T16:47:19-07:00</published>
+    <updated>2019-10-03T16:47:19-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/jm-098872"/>
+    <title>Hartley&apos;s Raspberry Jam (PM) 6x340gm [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5060391622149_1_348.jpg?v=1585159774"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            25.50
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Raspberry Jam (PM) 6x340gm [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4160716963892</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">25.50</s:price>
+      <s:sku>JM 1098872</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799636082740</id>
+    <published>2019-08-13T16:04:03-07:00</published>
+    <updated>2019-08-13T16:04:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/coopers-fine-cut-oxford-marmalade-6-454gm"/>
+    <title>Frank Cooper&apos;s Oxford Fine Cut Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Frank Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5035660138782_1_348.jpg?v=1585159608"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frank Coopers<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            42.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frank Cooper's Oxford Fine Cut Marmalade 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799636082740</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.87</s:price>
+      <s:sku>JM 1093132</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635984436</id>
+    <published>2019-08-13T16:04:01-07:00</published>
+    <updated>2019-08-13T16:04:01-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/frank-coopers-coarse-cut-oxford-marmalade-pm-6-454g"/>
+    <title>Frank Cooper&apos;s Vintage Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Frank Coopers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5035660138768_1_348_28441620-9d57-4a05-80bc-9d350d1e9b60.jpg?v=1585159609"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Frank Coopers<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            42.87
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Frank Cooper's Vintage Oxford Marmalade Coarse Cut 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635984436</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">42.87</s:price>
+      <s:sku>JM 1093133</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635591220</id>
+    <published>2019-08-13T16:03:55-07:00</published>
+    <updated>2019-08-13T16:03:55-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/duerrs-ginger-jam-jar-6-454gm"/>
+    <title>Duerr&apos;s Ginger Jam 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Duerr&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/gingjam_82605d56-809d-4249-84ad-00188fe2298b.jpg?v=1585159551"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Duerr&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            22.35
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Duerr's Ginger Jam 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635591220</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">22.35</s:price>
+      <s:sku>JM 550005</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635525684</id>
+    <published>2019-08-13T16:03:53-07:00</published>
+    <updated>2019-08-13T16:03:53-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/roses-orange-marmalade-6-454gm"/>
+    <title>Roses Orange Fine Cut Marmalade 6x454gm [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Rose&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50354009_1_348_6f115c37-e5f4-4146-8b35-173959d57bf7.jpg?v=1585160553"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses Orange Fine Cut Marmalade 6x454gm [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635525684</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku>JM 451387-1093208</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635492916</id>
+    <published>2019-08-13T16:03:52-07:00</published>
+    <updated>2019-08-13T16:03:52-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/roses-lemon-and-lime-marmalade-6-454gm"/>
+    <title>Roses Lemon &amp; Lime Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Rose&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50183364_1_348.jpg?v=1585160550"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Rose&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            37.98
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Roses Lemon &amp; Lime Marmalade 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635492916</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">37.98</s:price>
+      <s:sku>JM 451386-1093204</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635427380</id>
+    <published>2019-08-13T16:03:50-07:00</published>
+    <updated>2019-08-13T16:03:50-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-apricot-jam-pm6-340g"/>
+    <title>Hartley&apos;s Best Apricot Jam (PM) 6x340g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5060391622101_1_348.jpg?v=1585159759"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            26.25
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Best Apricot Jam (PM) 6x340g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635427380</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.25</s:price>
+      <s:sku>JM 1098874</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635263540</id>
+    <published>2019-08-13T16:03:46-07:00</published>
+    <updated>2019-08-13T16:03:46-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-breakfast-cut-marmalade-6-454gm"/>
+    <title>Hartleys Breakfast Cut Marmalade 6x454gm [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/break.jpg?v=1585159777"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            32.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartleys Breakfast Cut Marmalade 6x454gm [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635263540</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.23</s:price>
+      <s:sku>JM 1093116</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635230772</id>
+    <published>2019-08-13T16:03:45-07:00</published>
+    <updated>2019-08-13T16:03:45-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-olde-english-marmalade-6-454g"/>
+    <title>Hartley&apos;s Olde English Marmalade 6x454g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50183319_1_348_a6540f27-d338-4e5e-875f-e8bf9ef6da97.jpg?v=1585159771"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            32.23
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Olde English Marmalade 6x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635230772</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">32.23</s:price>
+      <s:sku>JM 1093101</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635099700</id>
+    <published>2019-08-13T16:03:43-07:00</published>
+    <updated>2019-08-13T16:03:43-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-raspberry-seedless-jam-6-340g"/>
+    <title>Hartley&apos;s Best Raspberry Seedless Jam 6x340g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50354078_1_348_29516af7-ad8c-4f50-a42c-ced77c2c5a86.jpg?v=1585159765"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Best Raspberry Seedless Jam 6x340g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635099700</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.81</s:price>
+      <s:sku>JM 1092589</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799635001396</id>
+    <published>2019-08-13T16:03:42-07:00</published>
+    <updated>2019-08-13T16:03:42-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-pineapple-jam-6-340gm"/>
+    <title>Hartley&apos;s Best Pineapple Jam 6x340gm [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50354160_1_348_a4601368-c6bc-4f3f-a92c-014c293882ff.jpg?v=1585159764"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Best Pineapple Jam 6x340gm [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799635001396</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.81</s:price>
+      <s:sku>JM 1092588</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799634968628</id>
+    <published>2019-08-13T16:03:41-07:00</published>
+    <updated>2019-08-13T16:03:41-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-blueberry-jam-6-340g"/>
+    <title>Robertsons Ginger Preserve 6x340g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/50172474_1_348.jpg?v=1585160518"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            28.15
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Robertsons Ginger Preserve 6x340g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799634968628</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">28.15</s:price>
+      <s:sku>JM 1092534</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799634935860</id>
+    <published>2019-08-13T16:03:40-07:00</published>
+    <updated>2019-08-13T16:03:40-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/hartleys-best-black-cherry-jam-6-340g"/>
+    <title>Hartley&apos;s Best Black Cherry Jam 6x340g [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Hartley&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/61-9WFodguL._SX385.jpg?v=1585159760"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Hartley&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            27.81
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Hartley's Best Black Cherry Jam 6x340g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799634935860</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">27.81</s:price>
+      <s:sku>JM 1092585</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799634870324</id>
+    <published>2019-08-13T16:03:39-07:00</published>
+    <updated>2019-08-13T16:03:39-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/robertsons-golden-shredless-marmalade-6-454gm"/>
+    <title>Robertsons Golden Shredless Orange Marmalade 6x454gm [Regular Stock]</title>
+    <s:type>Jams/Marmalade/Spread</s:type>
+    <s:vendor>Robertson&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5035660136627_1_348_67b272ac-fe09-43c4-8654-ed62e100e6a5.jpg?v=1585160520"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Robertson&#39;s<br>
+        <strong>Type: </strong>Jams/Marmalade/Spread<br>
+        <strong>Price: </strong>
+            26.93
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Robertsons Golden Shredless Orange Marmalade 6x454gm [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799634870324</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">26.93</s:price>
+      <s:sku>JM 1092539</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

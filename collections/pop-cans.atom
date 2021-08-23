@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/pop-cans.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-08-13T16:04:14-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/3799636770868</id>
+    <published>2019-08-13T16:04:14-07:00</published>
+    <updated>2019-08-13T16:04:14-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/ben-shaws-bitter-shandy-cans-24-330ml"/>
+    <title>Ben Shaw&apos;s Bitter Shandy 24x330ml [Regular Stock]</title>
+    <s:type>Pop Cans</s:type>
+    <s:vendor>Ben Shaws</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5029578000101_1_348_1a82dbfd-94f3-4a9a-9393-03f649505c9c.jpg?v=1585159058"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ben Shaws<br>
+        <strong>Type: </strong>Pop Cans<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ben Shaw's Bitter Shandy 24x330ml [Regular Stock] </p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799636770868</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>PO 400092-1014557</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799636738100</id>
+    <published>2019-08-13T16:04:13-07:00</published>
+    <updated>2019-08-13T16:04:13-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/ben-shaws-cream-soda-cans-24-330ml"/>
+    <title>Ben Shaw&apos;s Cream Soda 24x330ml [Regular Stock]</title>
+    <s:type>Pop Cans</s:type>
+    <s:vendor>Ben Shaws</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/5029578000729_1_348_465132c3-4ff4-4a41-992a-2e2eb3b87b4d.jpg?v=1585159060"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Ben Shaws<br>
+        <strong>Type: </strong>Pop Cans<br>
+        <strong>Price: </strong>
+            24.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Ben Shaw's Cream Soda 24x330ml [Regular Stock] <strong>BBD 31Oct20</strong></p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799636738100</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">24.00</s:price>
+      <s:sku>PO 400091-1061422</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

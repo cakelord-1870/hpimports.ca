@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/christmas.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-08-13T16:05:58-07:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/3799641456692</id>
+    <published>2019-08-13T16:05:58-07:00</published>
+    <updated>2019-08-13T16:05:58-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/matthew-walkers-luxury-xmas-pudding-12-400gm-spec"/>
+    <title>Matthew Walkers Luxury Christmas Pudding 12*400g [Regular Stock]</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Matthew Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/HP_Missing_Image_5b62194e-e39b-49c2-864a-0c0af855494e.jpg?v=1585160166"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Matthew Walkers<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            167.40
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Matthew Walkers Luxury Christmas Pudding 12*400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799641456692</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">167.40</s:price>
+      <s:sku>Xmas Pudd 26</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799641391156</id>
+    <published>2019-08-13T16:05:57-07:00</published>
+    <updated>2019-08-13T16:05:57-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/matthew-walkers-classic-xmas-pudding-12-400gm-spec"/>
+    <title>Matthew Walkers Classic Christmas Pudding 12*400g [Regular Stock]</title>
+    <s:type>Christmas</s:type>
+    <s:vendor>Matthew Walkers</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/HP_Missing_Image_a068da5d-f845-40d1-b073-215869c6cf34.jpg?v=1585160165"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Matthew Walkers<br>
+        <strong>Type: </strong>Christmas<br>
+        <strong>Price: </strong>
+            125.00
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Matthew Walkers Classic Christmas Pudding 12*400g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799641391156</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">125.00</s:price>
+      <s:sku>Xmas Pudd 21</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>

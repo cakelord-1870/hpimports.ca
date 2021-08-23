@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://hpimports.ca/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://hpimports.ca/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://hpimports.ca/collections/baking.atom"/>
+  <title>HP Imports Ltd.</title>
+  <updated>2019-12-01T14:23:09-08:00</updated>
+  <author>
+    <name>HP Imports Ltd.</name>
+  </author>
+  <entry>
+    <id>https://hpimports.ca/products/4315449294900</id>
+    <published>2019-12-01T14:23:09-08:00</published>
+    <updated>2019-12-01T14:23:09-08:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/tate-lyles-golden-syrup-6-907g-regular-stock"/>
+    <title>Tate &amp; Lyles Golden Syrup 6x907g [Regular Stock]</title>
+    <s:type>Baking</s:type>
+    <s:vendor>Tate &amp; Lyle</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/71WWVOOt-qL._SY355_032d3509-8100-499f-ac93-5db0c8ec3e63.jpg?v=1585160669"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tate &amp; Lyle<br>
+        <strong>Type: </strong>Baking<br>
+        <strong>Price: </strong>
+            39.71
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tate &amp; Lyles Golden Syrup 6x907g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4315449294900</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">39.71</s:price>
+      <s:sku>BA 1034093</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/4173756923956</id>
+    <published>2019-10-03T16:56:38-07:00</published>
+    <updated>2019-10-03T16:56:38-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/tate-lyles-squeezy-syrup-golden-syrup-pm-6-325g-regular-stock"/>
+    <title>Tate &amp; Lyles Squeezy Syrup Golden Syrup 6x325g [Regular Stock]</title>
+    <s:type>Baking</s:type>
+    <s:vendor>Tate &amp; Lyles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/tate-lyle-squeezy-dessert-golden-syrup-325g_0bdfd3f6-98b0-4d07-af1a-45ec0ee640ed.jpg?v=1585160676"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tate &amp; Lyles<br>
+        <strong>Type: </strong>Baking<br>
+        <strong>Price: </strong>
+            15.88
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tate &amp; Lyles Squeezy Syrup Golden Syrup 6x325g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/4173756923956</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.88</s:price>
+      <s:sku>BA 451117-1034107</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799600955444</id>
+    <published>2019-08-13T15:52:03-07:00</published>
+    <updated>2019-08-13T15:52:03-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/greens-chocolate-sponge-mix-6-221gm"/>
+    <title>Green&apos;s Chocolate Sponge Mix (PM) 6x221g [Regular Stock]</title>
+    <s:type>Baking</s:type>
+    <s:vendor>Green&apos;s</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/800802-Green-s-Chocolate-Sponge-Mix-221gm-P-M-1-_sp44271_1.jpg?v=1585159684"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Green&#39;s<br>
+        <strong>Type: </strong>Baking<br>
+        <strong>Price: </strong>
+            15.12
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Green's Chocolate Sponge Mix (PM) 6x221g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-SOS Wholesale Ltd</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799600955444</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">15.12</s:price>
+      <s:sku>BA 150636</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://hpimports.ca/products/3799600594996</id>
+    <published>2019-08-13T15:51:56-07:00</published>
+    <updated>2019-08-13T15:51:56-07:00</updated>
+    <link rel="alternate" type="text/html" href="https://hpimports.ca/products/tate-and-lyles-pouring-syrup-12-454gm"/>
+    <title>Tate &amp; Lyles Pouring Syrup 12x454g [Regular Stock]</title>
+    <s:type>Baking</s:type>
+    <s:vendor>Tate &amp; Lyles</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0255/4757/1252/products/81YtdDgzxtL._SY679.jpg?v=1585160672"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Tate &amp; Lyles<br>
+        <strong>Type: </strong>Baking<br>
+        <strong>Price: </strong>
+            44.44
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><p>Tate &amp; Lyles Pouring Syrup 12x454g [Regular Stock]</p></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:tag>regular-stock-eligible</s:tag>
+    <s:tag>Supplier-NISA International Ramsdens</s:tag>
+    <s:variant>
+      <id>https://hpimports.ca/products/3799600594996</id>
+      <title>Default Title</title>
+      <s:price currency="CAD">44.44</s:price>
+      <s:sku>BA 1034067</s:sku>
+      <s:grams>0</s:grams>
+    </s:variant>
+  </entry>
+</feed>
